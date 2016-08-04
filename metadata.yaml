@@ -1,0 +1,43 @@
+_repo: Fenimore-Cooper-s-Literary-Offences_3172
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: "\"Fenimore Cooper's Literary Offenses\" is an 1895 essay by Mark Twain,\
+  \ written as a satire and criticism of the writings of James Fenimore Cooper. Drawing\
+  \ on examples from The Deerslayer and The Pathfinder from Cooper's Leatherstocking\
+  \ Tales, the essay claims Cooper is guilty of verbose writing, poor plotting, glaring\
+  \ inconsistencies, overused clichés, cardboard characterizations, and a host of\
+  \ similar \"offenses.\"\nThe essay is characteristic of Twain's biting, derisive\
+  \ and highly satirical style of literary criticism, a form he also used to deride\
+  \ such authors as Oliver Goldsmith, George Eliot, Jane Austen, and Robert Louis\
+  \ Stevenson.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3172'
+  wikidata: Q5443477
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'National characteristics, American, in literature'
+- !lcsh 'Criticism -- United States'
+- !lcsh 'Literature and society -- United States'
+- !lcsh 'American literature -- History and criticism -- Theory, etc.'
+- !lcc 'PS'
+- !lcsh 'United States -- Civilization'
+- GITenberg
+title: Fenimore Cooper's Literary Offences
+url: http://www.gutenberg.org/ebooks/3172
+wikipedia:
+- https://en.wikipedia.org/wiki/Fenimore_Cooper%27s_Literary_Offenses
